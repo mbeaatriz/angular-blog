@@ -1,0 +1,8 @@
+.menu-title > h1{
+ color: #fff;
+ font-size: 10rem;
+ text-transform: uppercase;
+ text-align: center;
+ border-top: 1px solid #333;
+ border-bottom: 1px solid #333;
+}

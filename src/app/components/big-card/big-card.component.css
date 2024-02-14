@@ -1,0 +1,16 @@
+.container__big-card
+{
+  max-width:580px;
+}
+
+.big-card__description{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top:20px;
+  color: #afafaf;
+}
+
+.big-card__description h1{
+  color: #fff;
+}

@@ -1,0 +1,17 @@
+.articles
+{
+  margin-top:80px;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.articles__small-card
+{
+  display:flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+
+

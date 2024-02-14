@@ -1,0 +1,16 @@
+.container__small-card{
+  display:flex;
+  gap: 20px;
+}
+
+.small-card__description{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top:20px;
+  color: #afafaf;
+}
+
+.small-card__description h1{
+  color: #fff;
+}
